@@ -1,4 +1,4 @@
-Random Password Generator
+# Random Password Generator
 
 Random password generator is a program that creates customized passwords for users. 
 It helps users to create stronger passwords that provide greater security.
