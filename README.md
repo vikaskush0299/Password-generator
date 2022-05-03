@@ -7,4 +7,4 @@ In this project, the user has to select the password length and then click on th
 
 I have used an Azure service called "Static Web App Service" for hosting my project and to demonstrate the live working of the project.
 
-Check out the live working through: https://mango-cliff-0c21d570f.1.azurestaticapps.net/
+Check out the live working through: https://vikaskush0299.github.io/Password-generator/
